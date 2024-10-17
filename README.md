@@ -13,8 +13,8 @@ this is an old version of it that i have on my pc, so maybe it will not work aft
 
 
 # Credits
-`verlox - Main Developer`
-`Russian Heaxy - Developer`
+`- verlox`
+`- Russian Heaxy`
 
 
 # Disclaimer
